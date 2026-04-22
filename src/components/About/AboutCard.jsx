@@ -12,7 +12,7 @@ function AboutCard() {
 						<br />
 						I’m currently working as a{" "}
 						<span className="purple">Software Developer</span> at{" "}
-						<span className="purple">Juspay</span>.
+						<span className="purple">Devminified Pvt Ltd</span>.
 						<br />I hold an Integrated BS. in{"Information Technology "}
 						<span className="purple">Information Technology</span> from{" "}
 						<span className="purple">Virtual University of Pakistan</span>.
